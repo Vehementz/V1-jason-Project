@@ -1,0 +1,14 @@
+.crewList {
+    font-size: 1.3rem;
+    width: 100%;
+    text-align: center;
+    margin: auto;
+    gap: 10px;
+
+}
+
+.menberName {
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
